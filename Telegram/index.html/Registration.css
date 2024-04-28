@@ -1,0 +1,36 @@
+.text{
+    color: red;
+    outline: blue;
+}
+body{
+    background-image: url("../image/39666-zemlya-teatralnye_dekoracii-priroda-gornyj_hrebet-gora-3840x2160.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+    
+    
+    
+}
+form{
+    margin: 0 auto;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0));
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    width: 300px;
+    display: block;
+}
+.admin{
+    color: rgb(14, 190, 249);
+
+}
+.admin:hover{
+    text-decoration: none;
+    font-size: 19px;
+    text-shadow: 0 20px 20px 20px ;
+
+}
